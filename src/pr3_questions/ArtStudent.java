@@ -7,7 +7,7 @@ package pr3_questions;
 
 /**
  *
- * @author rant
+ * @author abeeradnan
  */
 public class ArtStudent extends Student{
   
