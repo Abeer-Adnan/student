@@ -1,0 +1,6 @@
+ name Sara id 4 major  grad 7.0
+ name Abeer id 1 major  grad 10.0
+ name Reema id 3 major  grad 11.0
+ name Alaa id 2 major  grad 15.0
+ name Rawan id 6 major  grad 16.0
+ name Maram id 5 major  grad 20.0

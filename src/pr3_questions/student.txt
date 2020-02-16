@@ -1,0 +1,6 @@
+Student{id=6, name=Rawan, major=, grade=104.9}
+Student{id=5, name=Maram, major=, grade=104.5}
+Student{id=4, name=Sara, major=, grade=104.2}
+Student{id=1, name=Abeer, major=, grade=82.1}
+Student{id=2, name=Alaa, major=, grade=82.1}
+Student{id=3, name=Reema, major=, grade=82.1}
